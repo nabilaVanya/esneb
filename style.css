@@ -1,0 +1,17 @@
+#box1 {
+      border: 2px solid rgb(236, 173, 37);
+      padding: 10px 50px;
+      margin: 10px 50px;
+
+      width: 50%;
+      height: 50%;
+ }
+
+#box2 {
+    border: 2px solid rgb(243, 116, 144);
+    padding: 10px 50px;
+    margin: 10px 50px;
+
+    width: 50%;
+    height: 50%;
+}
